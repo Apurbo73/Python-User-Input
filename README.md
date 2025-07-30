@@ -54,4 +54,3 @@ x, y = map(int, input("Enter two numbers: ").split())
 
 ---
 
-Let me know if you want examples using `input()` with lists, loops, or error handling.
