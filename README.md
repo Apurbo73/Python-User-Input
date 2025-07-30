@@ -1,4 +1,4 @@
-﻿# Python User Input
+### Python User Input
 In Python, you can get **user input** using the built-in `input()` function.
 
 ---
